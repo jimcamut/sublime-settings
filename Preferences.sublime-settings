@@ -30,6 +30,11 @@
 	],
 	"open_files_in_new_window": false,
 	"spell_check": true,
+	"theme": "Seti.sublime-theme",
+	"shift_tab_unindent": true,
+	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Seti.sublime-theme"
+	"translate_tabs_to_spaces": false,
+	"use_tab_stops": true,
+	"word_wrap": true
 }
