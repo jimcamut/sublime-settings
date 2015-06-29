@@ -1,3 +1,4 @@
 [
-	{ "keys": ["command+shift+a"], "command": "reindent" , "args": { "single_line": false } }
+	{ "keys": ["command+shift+a"], "command": "reindent" , "args": { "single_line": false } },
+	{ "keys": ["command+shift+m"], "command": "title_case" },
 ]
